@@ -3,7 +3,7 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: abhisamant7/nodeapp1
+  repository: abhisamant7/nodeapp2
   tag: latest
   pullPolicy: IfNotPresent
   resources:
